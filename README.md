@@ -58,7 +58,7 @@ Find more resources at [learn.angular-formly.com](http://learn.angular-formly.co
 
 ## Documentation
 
-Find all the documentation at [docs.angular-formly.com](http://docs.angular-formly.com).
+Find all the documents at [docs.angular-formly.com](http://docs.angular-formly.com).
 
 ## Plugins
 
@@ -66,7 +66,7 @@ Find all the plugins at [docs.angular-formly.com/page/plugins](http://docs.angul
 
 ## Getting Help
 
-Please don't file an issue unless you feel like you've found a bug or have a feature request. Instead, go to [help.angular-formly.com](http://help.angular-formly.com) and follow the instructions.
+Please don't file an issue unless you feel like you have found a bug or have a feature request. Instead, go to [help.angular-formly.com](http://help.angular-formly.com) and formly follow the instructions.
 
 ## Roadmap
 
@@ -76,7 +76,7 @@ See the [issues labeled enhancement](https://github.com/formly-js/angular-formly
 
 Please see the [CONTRIBUTING Guidelines](CONTRIBUTING.md).
 
-**Note**: This projects adheres to a [Code of Conduct](CODE_OF_CONDUCT.md).
+**Note**: This projects sticks to a [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Financial Support
 
@@ -97,7 +97,7 @@ You can bookmark these :-)
 - [http://learn.angular-formly.com](http://learn.angular-formly.com)
 - [http://questions.angular-formly.com](http://questions.angular-formly.com)
 
-## Thanks
+## Thanks to all
 
 A special thanks to [Nimbly](http://gonimbly.com) for creating angular-formly.
 This library is maintained (with love) by me, [Kent C. Dodds](https://twitter.com/kentcdodds).
